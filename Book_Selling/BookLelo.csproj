@@ -22,4 +22,10 @@
     <ProjectReference Include="..\Book_Selling.DartaAccess\BookLelo.DartaAccess.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Customer\Data\" />
+    <Folder Include="Areas\Customer\Models\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
